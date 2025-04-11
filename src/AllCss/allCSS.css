@@ -1,0 +1,29 @@
+/* Custom styles if needed */
+/* Tailwind and daisyUI are already linked via CDN */
+
+.banner-section {
+    position: relative;
+    height: 500px;
+    width: 100%;
+  }
+  
+  .banner-img {
+    position: absolute;
+    inset: 0;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+  }
+  
+  .banner-content {
+    position: absolute;
+    inset: 0;
+    background-color: rgba(0, 0, 0, 0.4);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 2.5rem;
+    padding-right: 2.5rem;
+    color: white;
+  }
+  

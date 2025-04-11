@@ -1,0 +1,33 @@
+.dataTableContainer{
+    display: flex;
+    justify-content: space-between;
+
+}
+.table{
+    background-color: gray;
+    padding: 10px;
+  
+}
+.table th{
+    padding: 0 20px;
+}
+
+.imageAndName{
+    display: flex;
+    align-items: center;
+}
+.tableContenet td{
+    padding: 0 20px;
+    border-bottom: 2px solid #b3b2b2;
+
+}
+.bitBtn{
+        cursor: not-allowed;
+       
+
+        /*Button disabled - CSS color class*/
+        color: #c0c0c0;
+        background-color: #ffffff;
+
+        }
+

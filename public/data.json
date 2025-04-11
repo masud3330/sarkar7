@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "title": "Vintage Leather Wallet",
+      "description": "A handcrafted leather wallet with vintage charm.",
+      "currentBidPrice": 45.99,
+      "timeLeft": "2h 35m",
+      "bidsCount": 12,
+      "image": "https://via.placeholder.com/150?text=Wallet"
+    },
+    {
+      "id": 2,
+      "title": "Antique Clock",
+      "description": "Classic wall-mounted clock from the 1920s.",
+      "currentBidPrice": 132.50,
+      "timeLeft": "5h 10m",
+      "bidsCount": 28,
+      "image": "https://via.placeholder.com/150?text=Clock"
+    },
+    {
+      "id": 3,
+      "title": "Gaming Headset",
+      "description": "Noise-cancelling headset with surround sound for immersive gaming.",
+      "currentBidPrice": 59.99,
+      "timeLeft": "1d 3h",
+      "bidsCount": 18,
+      "image": "https://via.placeholder.com/150?text=Headset"
+    },
+    {
+      "id": 4,
+      "title": "Mountain Bike",
+      "description": "Durable mountain bike perfect for off-road trails.",
+      "currentBidPrice": 325.00,
+      "timeLeft": "6h 45m",
+      "bidsCount": 34,
+      "image": "https://via.placeholder.com/150?text=Bike"
+    },
+    {
+      "id": 5,
+      "title": "Smart Watch",
+      "description": "Fitness tracker with heart rate monitor and GPS.",
+      "currentBidPrice": 79.00,
+      "timeLeft": "3h 22m",
+      "bidsCount": 21,
+      "image": "https://via.placeholder.com/150?text=Watch"
+    },
+    {
+      "id": 6,
+      "title": "Bluetooth Speaker",
+      "description": "Portable speaker with 12-hour battery life and deep bass.",
+      "currentBidPrice": 49.90,
+      "timeLeft": "9h 30m",
+      "bidsCount": 14,
+      "image": "https://via.placeholder.com/150?text=Speaker"
+    },
+    {
+      "id": 7,
+      "title": "Sketchbook Set",
+      "description": "Professional sketchbook set with high-quality paper and pencils.",
+      "currentBidPrice": 25.00,
+      "timeLeft": "2d 1h",
+      "bidsCount": 7,
+      "image": "https://via.placeholder.com/150?text=Sketchbook"
+    },
+    {
+      "id": 8,
+      "title": "Camera Drone",
+      "description": "HD camera drone with auto-hover and 4K recording.",
+      "currentBidPrice": 215.75,
+      "timeLeft": "4h 55m",
+      "bidsCount": 19,
+      "image": "https://via.placeholder.com/150?text=Drone"
+    },
+    {
+      "id": 9,
+      "title": "Gaming Laptop",
+      "description": "High-performance laptop for gamers with RTX graphics.",
+      "currentBidPrice": 870.00,
+      "timeLeft": "1d 12h",
+      "bidsCount": 42,
+      "image": "https://via.placeholder.com/150?text=Laptop"
+    },
+    {
+      "id": 10,
+      "title": "Wireless Earbuds",
+      "description": "Compact earbuds with active noise cancellation.",
+      "currentBidPrice": 39.99,
+      "timeLeft": "3h 15m",
+      "bidsCount": 17,
+      "image": "https://via.placeholder.com/150?text=Earbuds"
+    }
+  ]
+  
